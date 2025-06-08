@@ -19,7 +19,6 @@ const EventPage = () => {
           <EventList />
         </div>
       </main>
-      <Footer />
     </div>
   )
 }

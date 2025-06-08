@@ -145,8 +145,8 @@ footer {
   grid-area: footer;
   background-color: var(--footer-background-color);
   margin-left: 170px;
-  padding-block: 2rem;
-  border: 1px solid;
+  padding: 2rem;
+  
   
 }
 
@@ -577,8 +577,9 @@ footer {
 .terms-section{
   padding: 1.5rem;
   background-color: var(--gray-10);
-      border-radius: 1rem;
-    margin-top: 2rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 

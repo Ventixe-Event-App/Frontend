@@ -113,11 +113,7 @@ const BookingEventPage = () => {
                 </div>
               </div>
 
-              <form
-                id="bookingForm"
-                onSubmit={handleSubmit}
-                noValidate
-              >
+              <form id="bookingForm" onSubmit={handleSubmit} Validate>
                 <div className="section">
                   <div className="section-title">👤 Kontaktuppgifter</div>
 

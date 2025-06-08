@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div></div>
+    <div>Copyright © 2025 Peterdraw</div>
   )
 }
 
